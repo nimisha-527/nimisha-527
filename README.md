@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nimisha-527
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning reactjs and creating basic projects to enhance my skills
+- 🌱 I’m currently learning MERN stack and creating basic projects to enhance my skills
 
 
 <!---
