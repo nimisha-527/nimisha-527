@@ -9,7 +9,7 @@ I’m a web developer focused on building clean, accessible, and responsive web 
 
 ## Tech & Tools
 - JavaScript (ES6+), HTML, CSS
-- React, Redux (or Context API)
+- React
 - Node.js, Express
 - MongoDB
 - Git & GitHub
