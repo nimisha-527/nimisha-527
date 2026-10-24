@@ -21,10 +21,7 @@ I build beginner-to-intermediate projects to practice concepts and demonstrate w
 - Reading Bliss — A simple reading-tracker web app to log books, track progress, and keep notes. (https://github.com/nimisha-527/reading-bliss)
 - create-webapp-kit — A starter kit/CLI to scaffold React + Node boilerplate projects quickly, with recommended tooling and deployment scripts. (https://github.com/nimisha-527/create-webapp-kit)
 
-(You can replace the links above with live project pages or add demo screenshots when ready.)
-
 ## Let's Connect
-- LinkedIn: https://www.linkedin.com/in/nimisha-jain-1405a931b/  
-- GitHub: https://github.com/nimisha-527
+- LinkedIn: https://www.linkedin.com/in/nimisha-jain-1405a931b/
 
 Thanks for visiting my profile — I’m always open to collaboration and feedback! 🚀
