@@ -8,7 +8,8 @@ I’m a web developer focused on building clean, accessible, and responsive web 
 - 🎯 Goals: Build full-stack projects, improve UI/UX, and contribute to open-source
 
 ## Tech & Tools
-- JavaScript (ES6+), HTML, CSS
+- JavaScript (ES6+), HTML, CSS,
+- Vue
 - React
 - Node.js, Express
 - MongoDB
